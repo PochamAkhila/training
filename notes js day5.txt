@@ -1,0 +1,12 @@
+JS
+====
+Javascript is used to traversal the HTML documnet.
+JS is used to control the data(get & set).
+Debug - to see the result.
+a. Alert - simple output - stops the code execution.
+b.
+
+console.error("red in color")
+console.warn("yellow in color")
+console.log("Log console");
+alert("hai")

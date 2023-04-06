@@ -1,0 +1,35 @@
+Express is a fast and moderate web framework of Node.js. You can assume express as a layer built on the top of the Node.js that helps manage a server and routes. 
+
+es5 features
+includes
+startswith
+endswith
+Template Literals ``
+max_safe_integer
+min_safe_integer
+
+es6
+The let keyword
+The const keyword
+Arrow Functions
+The ... Operator
+For/of
+Map Objects
+Set Objects
+Classes
+Promises
+Symbol
+Function Rest Parameter
+String.includes()
+String.startsWith()
+String.endsWith()
+Array keys()
+Array find()
+Array findIndex()
+New Math Methods
+New Number Properties
+New Number Methods
+New Global Methods
+JavaScript Modules
+
+Automatic replacing of expressions with real values is called string interpolation.
